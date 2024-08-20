@@ -6,7 +6,7 @@ This is a very limited tool to import a well built Excel-File into RDMO as a rou
 
 - `pandas` is used to import the xlsx/ods into a dataframe. 
 - `python-slugified` is used to create slugified names for attributes and keys.
-- Also this uses `rdmo-client` (**in a customized version** till rdmo_client supports version 2.x of rdmo)
+- Also this uses `rdmo-client` (**in a customized version** till rdmo-client supports version 2.x of rdmo)
 python>3.7
 
 ## Install
